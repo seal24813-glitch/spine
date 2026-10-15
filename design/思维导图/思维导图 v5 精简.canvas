@@ -1,0 +1,1095 @@
+{
+	"nodes": [
+		{
+			"id": "ceb833f7ace55827",
+			"type": "text",
+			"text": "成人和青少年不区分：同一套按康复师处方打卡；只问年龄和性别；不做家长视角",
+			"x": 1000,
+			"y": 0,
+			"width": 460,
+			"height": 82,
+			"color": "4"
+		},
+		{
+			"id": "1d8e0b26a4d9657d",
+			"type": "text",
+			"text": "五个治疗阶段，「我的」里随时切换：还在检查 / 刚戴支具 / 支具+运动 / 脱支具维持 / 成年阶段（名称待定）",
+			"x": 1000,
+			"y": 106,
+			"width": 460,
+			"height": 108,
+			"color": "3"
+		},
+		{
+			"id": "76bab284c9a3bde0",
+			"type": "text",
+			"text": "首次使用：年龄性别 → 选阶段 → 再填 2 项（初潮、手头资料），之后随复查补全",
+			"x": 1000,
+			"y": 238,
+			"width": 460,
+			"height": 82,
+			"color": "4"
+		},
+		{
+			"id": "9af59a54bdba85a6",
+			"type": "text",
+			"text": "**用户与阶段**",
+			"x": 560,
+			"y": 130,
+			"width": 240,
+			"height": 60,
+			"color": "5"
+		},
+		{
+			"id": "8ab4e90b8624b7dc",
+			"type": "text",
+			"text": "卡片 = 字典（动作是什么）+ 处方（这个人练多少）+ 个人内容（叫法、自录示范、笔记），都挂在同一个字典 ID 上",
+			"x": 1000,
+			"y": 384,
+			"width": 460,
+			"height": 108,
+			"color": "3"
+		},
+		{
+			"id": "b9406038809fb711",
+			"type": "text",
+			"text": "字典里没有的动作先存为个人自定义条目，由合作康复师审核后并入字典",
+			"x": 1000,
+			"y": 516,
+			"width": 460,
+			"height": 82,
+			"color": "3"
+		},
+		{
+			"id": "b517cc79a3d73462",
+			"type": "text",
+			"text": "示范分层：通用型直接用 / 方向型以处方原文为准 / 个体型靠个人录像；优先级 自录 > 字典示范 > 骨架示意；用示意人形",
+			"x": 1000,
+			"y": 622,
+			"width": 460,
+			"height": 108,
+			"color": "3"
+		},
+		{
+			"id": "96b70577fe9f3111",
+			"type": "text",
+			"text": "命名三层：显示名（康复师叫法）/ 标准动作 / 别名",
+			"x": 1000,
+			"y": 754,
+			"width": 460,
+			"height": 60,
+			"color": "4"
+		},
+		{
+			"id": "cecef63fc7866e2d",
+			"type": "text",
+			"text": "**动作字典与卡片**",
+			"x": 560,
+			"y": 569,
+			"width": 240,
+			"height": 60,
+			"color": "3"
+		},
+		{
+			"id": "bdd30d42c7ad10d4",
+			"type": "text",
+			"text": "今日卡组：一列，点圆圈打卡；顺序 柔韧 → 3D 矫正 → 核心 → 颈椎 → 拉伸放松",
+			"x": 1000,
+			"y": 878,
+			"width": 460,
+			"height": 82,
+			"color": "4"
+		},
+		{
+			"id": "298af2dbb724a3fe",
+			"type": "text",
+			"text": "隔天规则：整套动作隔天做，只在后台运行，页面不显示",
+			"x": 1000,
+			"y": 984,
+			"width": 460,
+			"height": 60,
+			"color": "3"
+		},
+		{
+			"id": "c096942010afd9fa",
+			"type": "text",
+			"text": "跟练播报：默认由系统按参数播报（计时 / 计数），手机平放；康复师原声只在「学」里出现",
+			"x": 1000,
+			"y": 1068,
+			"width": 460,
+			"height": 82,
+			"color": "3"
+		},
+		{
+			"id": "6e8cdae53658ce98",
+			"type": "text",
+			"text": "动作卡片：学 · 练 · 查",
+			"x": 1000,
+			"y": 1174,
+			"width": 460,
+			"height": 60,
+			"color": "4"
+		},
+		{
+			"id": "d3e6be68185208e9",
+			"type": "text",
+			"text": "支具佩戴环：支持手动输入时间，传感器联动待定",
+			"x": 1000,
+			"y": 1258,
+			"width": 460,
+			"height": 60,
+			"color": "3"
+		},
+		{
+			"id": "3e556a6ab7ca2a27",
+			"type": "text",
+			"text": "附加任务：蛙泳、撑杆站立",
+			"x": 1000,
+			"y": 1342,
+			"width": 460,
+			"height": 60,
+			"color": "4"
+		},
+		{
+			"id": "9fbcee0df16d1fd5",
+			"type": "text",
+			"text": "**今日**",
+			"x": 560,
+			"y": 1110,
+			"width": 240,
+			"height": 60,
+			"color": "4"
+		},
+		{
+			"id": "de017ad11ae12154",
+			"type": "text",
+			"text": "本周安排：周视图",
+			"x": 1000,
+			"y": 1466,
+			"width": 460,
+			"height": 60,
+			"color": "4"
+		},
+		{
+			"id": "42d49bf2656c8635",
+			"type": "text",
+			"text": "主流程「带着目标录」：复诊前提示这次建议录哪几个（只列个体型动作），诊室里点卡片「录示范」，录完直接挂好",
+			"x": 1000,
+			"y": 1550,
+			"width": 460,
+			"height": 82,
+			"color": "3"
+		},
+		{
+			"id": "df868a8cbf642c68",
+			"type": "text",
+			"text": "兜底「先录后配」：现场录 / 微信导入 → 待整理；缩略图展示，有把握的预先勾选，一键完成，没把握的留空；改错用候选多选",
+			"x": 1000,
+			"y": 1656,
+			"width": 460,
+			"height": 108,
+			"color": "3"
+		},
+		{
+			"id": "e0645ffe03eff8b8",
+			"type": "text",
+			"text": "视频和卡片多对多，可设主视频，记录来源（现场录 / 微信导入 / 康复师推送）",
+			"x": 1000,
+			"y": 1788,
+			"width": 460,
+			"height": 82,
+			"color": "3"
+		},
+		{
+			"id": "a0365efdcf6e2a31",
+			"type": "text",
+			"text": "处方识别：按别名匹配字典，识别组数、次数、时长并可手动改，左右字高亮（识别能力待后端确认）",
+			"x": 1000,
+			"y": 1894,
+			"width": 460,
+			"height": 82,
+			"color": "3"
+		},
+		{
+			"id": "410d919fe5e76689",
+			"type": "text",
+			"text": "**训练与录制**",
+			"x": 560,
+			"y": 1691,
+			"width": 240,
+			"height": 60,
+			"color": "3"
+		},
+		{
+			"id": "7340e7ed78ac6073",
+			"type": "text",
+			"text": "治疗历程（第 N 天）、戴支具天数、训练次数",
+			"x": 1000,
+			"y": 2040,
+			"width": 460,
+			"height": 60,
+			"color": "4"
+		},
+		{
+			"id": "8f97c50fe373eb51",
+			"type": "text",
+			"text": "Cobb 角曲线，±5° 属测量误差",
+			"x": 1000,
+			"y": 2124,
+			"width": 460,
+			"height": 60,
+			"color": "4"
+		},
+		{
+			"id": "4d296f3c5dedec41",
+			"type": "text",
+			"text": "复查记录：拍照识别打印报告，⋯ 手动编辑",
+			"x": 1000,
+			"y": 2208,
+			"width": 460,
+			"height": 60,
+			"color": "3"
+		},
+		{
+			"id": "e1af55e7db173eb1",
+			"type": "text",
+			"text": "**成长**",
+			"x": 560,
+			"y": 2124,
+			"width": 240,
+			"height": 60,
+			"color": "4"
+		},
+		{
+			"id": "5eb319520738a3e4",
+			"type": "text",
+			"text": "支具生活：饮食、皮肤、学校心理、游泳放松、经期",
+			"x": 1000,
+			"y": 2332,
+			"width": 460,
+			"height": 60,
+			"color": "4"
+		},
+		{
+			"id": "d1eedb36621aa8f1",
+			"type": "text",
+			"text": "学习：认知学习与科普，只在这里出现",
+			"x": 1000,
+			"y": 2416,
+			"width": 460,
+			"height": 60,
+			"color": "4"
+		},
+		{
+			"id": "d7c9b91c3181d458",
+			"type": "text",
+			"text": "小组、Deco 装饰",
+			"x": 1000,
+			"y": 2500,
+			"width": 460,
+			"height": 60,
+			"color": "3"
+		},
+		{
+			"id": "55dae93dba13a268",
+			"type": "text",
+			"text": "搭档打卡：可用二维码匹配",
+			"x": 1000,
+			"y": 2584,
+			"width": 460,
+			"height": 60,
+			"color": "3"
+		},
+		{
+			"id": "854bd6f61d053166",
+			"type": "text",
+			"text": "**社群（是否保留待定）**",
+			"x": 560,
+			"y": 2458,
+			"width": 240,
+			"height": 60,
+			"color": "4"
+		},
+		{
+			"id": "898322122a787ac4",
+			"type": "text",
+			"text": "档案卡：分型、度数、Risser（诊断书扫描）",
+			"x": 1000,
+			"y": 2708,
+			"width": 460,
+			"height": 60,
+			"color": "4"
+		},
+		{
+			"id": "957941e211603d5a",
+			"type": "text",
+			"text": "复查提醒：可选，默认关闭，日期可不填，首页不显示倒计时",
+			"x": 1000,
+			"y": 2792,
+			"width": 460,
+			"height": 82,
+			"color": "4"
+		},
+		{
+			"id": "3c69789135172ffe",
+			"type": "text",
+			"text": "松果与勋章：补卡、坚持勋章，只看坚持不看度数（经济系统待定）",
+			"x": 1000,
+			"y": 2898,
+			"width": 460,
+			"height": 82,
+			"color": "3"
+		},
+		{
+			"id": "5aaa68e8e3bcf0d3",
+			"type": "text",
+			"text": "康复团队：即将开放",
+			"x": 1000,
+			"y": 3004,
+			"width": 460,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "8704dfca729a1884",
+			"type": "text",
+			"text": "**我的**",
+			"x": 560,
+			"y": 2856,
+			"width": 240,
+			"height": 60,
+			"color": "4"
+		},
+		{
+			"id": "fed8992bb3cae55c",
+			"type": "text",
+			"text": "有合作康复师：快车道，扫码导入（二维码里是字典 ID + 参数），几乎零整理",
+			"x": 1000,
+			"y": 3128,
+			"width": 460,
+			"height": 82,
+			"color": "3"
+		},
+		{
+			"id": "1250e53f3f0d2087",
+			"type": "text",
+			"text": "有其他康复师：通用道，拍处方 → 别名匹配字典 → 先能练，有录像再补",
+			"x": 1000,
+			"y": 3234,
+			"width": 460,
+			"height": 82,
+			"color": "3"
+		},
+		{
+			"id": "2fdb1bc271d24b34",
+			"type": "text",
+			"text": "没有康复师：「还没有运动处方」首页：为什么需要运动治疗、复诊时可以问医生的问题、找康复师",
+			"x": 1000,
+			"y": 3340,
+			"width": 460,
+			"height": 82,
+			"color": "3"
+		},
+		{
+			"id": "51b14210307e2b03",
+			"type": "text",
+			"text": "起点：一位合作康复师（广州工作室）：咨询 → 共建首版字典（约 20 个动作）→ 试点 + 远程评估，再扩展成康复师网络",
+			"x": 1000,
+			"y": 3446,
+			"width": 460,
+			"height": 108,
+			"color": "3"
+		},
+		{
+			"id": "f6eb55026a08b628",
+			"type": "text",
+			"text": "网络要想清：准入核验、统一字典和处方码、康复师激励与平台收费、远程评估合规（互联网诊疗资质）",
+			"x": 1000,
+			"y": 3578,
+			"width": 460,
+			"height": 82,
+			"color": "1"
+		},
+		{
+			"id": "2a98510b23a65bc6",
+			"type": "text",
+			"text": "**康复师与用户状态**",
+			"x": 560,
+			"y": 3364,
+			"width": 240,
+			"height": 60,
+			"color": "3"
+		},
+		{
+			"id": "3a131c623cdca95a",
+			"type": "text",
+			"text": "字典只用来「认」，不用来「挑」：没有「浏览并添加到我的训练」入口",
+			"x": 1000,
+			"y": 3724,
+			"width": 460,
+			"height": 82,
+			"color": "3"
+		},
+		{
+			"id": "d21e076340870e95",
+			"type": "text",
+			"text": "来源锁：卡片只能来自处方（扫码、拍照识别、康复师推送）；手动新建须挂处方原图并标「待确认」",
+			"x": 1000,
+			"y": 3830,
+			"width": 460,
+			"height": 82,
+			"color": "3"
+		},
+		{
+			"id": "0da7f683cf808dfe",
+			"type": "text",
+			"text": "方向锁：方向以处方原文为准，弯型只交叉校验，冲突时提示向康复师确认",
+			"x": 1000,
+			"y": 3936,
+			"width": 460,
+			"height": 82,
+			"color": "3"
+		},
+		{
+			"id": "3978209ec25dc198",
+			"type": "text",
+			"text": "参数留痕：可改但标「自行修改」，大改动温和提示，复诊前列出改过的项",
+			"x": 1000,
+			"y": 4042,
+			"width": 460,
+			"height": 82,
+			"color": "3"
+		},
+		{
+			"id": "057d38034810e636",
+			"type": "text",
+			"text": "demo 待修：成年阶段久坐提醒不再替用户选动作；「还在检查」阶段不出现矫正动作",
+			"x": 1000,
+			"y": 4148,
+			"width": 460,
+			"height": 82,
+			"color": "1"
+		},
+		{
+			"id": "a395773fc0d75116",
+			"type": "text",
+			"text": "**安全原则**",
+			"x": 560,
+			"y": 3947,
+			"width": 240,
+			"height": 60,
+			"color": "3"
+		},
+		{
+			"id": "241e45ee3d4c5bb9",
+			"type": "text",
+			"text": "不分弯型、可自由浏览的通用视频库（改为只对处方内动作开放的分层示范）",
+			"x": 1000,
+			"y": 4294,
+			"width": 460,
+			"height": 82,
+			"color": "6"
+		},
+		{
+			"id": "4ffa618fe157be3a",
+			"type": "text",
+			"text": "镜子模式；康复师原声作跟练口令",
+			"x": 1000,
+			"y": 4400,
+			"width": 460,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "fef5018e079f922a",
+			"type": "text",
+			"text": "手写识别",
+			"x": 1000,
+			"y": 4484,
+			"width": 460,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "a24a382635044314",
+			"type": "text",
+			"text": "家长视图、家庭共享",
+			"x": 1000,
+			"y": 4568,
+			"width": 460,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "66f7b20ad5656e51",
+			"type": "text",
+			"text": "治疗历程勋章、完成页难度 / 疼痛评价",
+			"x": 1000,
+			"y": 4652,
+			"width": 460,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "2e213df2ca8570e0",
+			"type": "text",
+			"text": "首页复查倒计时、明天卡组展示、逐条盲选的一对一匹配页",
+			"x": 1000,
+			"y": 4736,
+			"width": 460,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "742a22e1075ad6ee",
+			"type": "text",
+			"text": "**已否决，不做**",
+			"x": 560,
+			"y": 4515,
+			"width": 240,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "64c53c027b9ce474",
+			"type": "text",
+			"text": "产品定位：讨论倾向「与康复师结合」，发展康复师网络；待写入决策记录",
+			"x": 1000,
+			"y": 4860,
+			"width": 460,
+			"height": 82,
+			"color": "3"
+		},
+		{
+			"id": "d323c8e3bb091914",
+			"type": "text",
+			"text": "医生 / 康复师：模块分类与顺序；通用 / 方向 / 个体三类分法；示范用示意人形还是真人；患者改参数的边界；无处方时的通用清单；隔天规则；远程评估能否替代线下首诊；共建字典的版权、署名、收入",
+			"x": 1000,
+			"y": 4966,
+			"width": 460,
+			"height": 134,
+			"color": "1"
+		},
+		{
+			"id": "da398167b28049f6",
+			"type": "text",
+			"text": "后端：文字识别能力和范围；处方二维码格式",
+			"x": 1000,
+			"y": 5124,
+			"width": 460,
+			"height": 60,
+			"color": "1"
+		},
+		{
+			"id": "509da9a09b590a09",
+			"type": "text",
+			"text": "自己：奖励经济系统（松鼠护林员、吉祥物）、成年阶段新名称、呼吸配合要不要做、社群怎么管",
+			"x": 1000,
+			"y": 5208,
+			"width": 460,
+			"height": 82,
+			"color": "1"
+		},
+		{
+			"id": "609a659fd8f440bc",
+			"type": "text",
+			"text": "**核心待确认**",
+			"x": 560,
+			"y": 5045,
+			"width": 240,
+			"height": 60,
+			"color": "1"
+		},
+		{
+			"id": "63a9f0ea7bb98050",
+			"type": "text",
+			"text": "**Spine**\n脊柱侧弯保守治疗陪伴 · 微信小程序首发\n绿 = 已定 / 已实现　黄 = 部分实现或讨论倾向，待确认\n红 = 待确认　紫 = 不做 / 占位",
+			"x": 0,
+			"y": 2517,
+			"width": 400,
+			"height": 160
+		}
+	],
+	"edges": [
+		{
+			"id": "f28d734661327bda",
+			"fromNode": "9af59a54bdba85a6",
+			"fromSide": "right",
+			"toNode": "ceb833f7ace55827",
+			"toSide": "left",
+			"color": "4"
+		},
+		{
+			"id": "4b16a216557357b9",
+			"fromNode": "9af59a54bdba85a6",
+			"fromSide": "right",
+			"toNode": "1d8e0b26a4d9657d",
+			"toSide": "left",
+			"color": "3"
+		},
+		{
+			"id": "29951df4cfedc29a",
+			"fromNode": "9af59a54bdba85a6",
+			"fromSide": "right",
+			"toNode": "76bab284c9a3bde0",
+			"toSide": "left",
+			"color": "4"
+		},
+		{
+			"id": "0677dd96f9d85dca",
+			"fromNode": "cecef63fc7866e2d",
+			"fromSide": "right",
+			"toNode": "8ab4e90b8624b7dc",
+			"toSide": "left",
+			"color": "3"
+		},
+		{
+			"id": "8793fe80616f63d0",
+			"fromNode": "cecef63fc7866e2d",
+			"fromSide": "right",
+			"toNode": "b9406038809fb711",
+			"toSide": "left",
+			"color": "3"
+		},
+		{
+			"id": "f9e48d13307335d5",
+			"fromNode": "cecef63fc7866e2d",
+			"fromSide": "right",
+			"toNode": "b517cc79a3d73462",
+			"toSide": "left",
+			"color": "3"
+		},
+		{
+			"id": "09ae7b7cea1e1e34",
+			"fromNode": "cecef63fc7866e2d",
+			"fromSide": "right",
+			"toNode": "96b70577fe9f3111",
+			"toSide": "left",
+			"color": "4"
+		},
+		{
+			"id": "dbfc108ca135978d",
+			"fromNode": "9fbcee0df16d1fd5",
+			"fromSide": "right",
+			"toNode": "bdd30d42c7ad10d4",
+			"toSide": "left",
+			"color": "4"
+		},
+		{
+			"id": "7b2c18032cf2b257",
+			"fromNode": "9fbcee0df16d1fd5",
+			"fromSide": "right",
+			"toNode": "298af2dbb724a3fe",
+			"toSide": "left",
+			"color": "3"
+		},
+		{
+			"id": "ce2a577edd4f76ae",
+			"fromNode": "9fbcee0df16d1fd5",
+			"fromSide": "right",
+			"toNode": "c096942010afd9fa",
+			"toSide": "left",
+			"color": "3"
+		},
+		{
+			"id": "d2f8f20d96f75b31",
+			"fromNode": "9fbcee0df16d1fd5",
+			"fromSide": "right",
+			"toNode": "6e8cdae53658ce98",
+			"toSide": "left",
+			"color": "4"
+		},
+		{
+			"id": "0c2f55f62400a549",
+			"fromNode": "9fbcee0df16d1fd5",
+			"fromSide": "right",
+			"toNode": "d3e6be68185208e9",
+			"toSide": "left",
+			"color": "3"
+		},
+		{
+			"id": "8dab0bd4f930fad7",
+			"fromNode": "9fbcee0df16d1fd5",
+			"fromSide": "right",
+			"toNode": "3e556a6ab7ca2a27",
+			"toSide": "left",
+			"color": "4"
+		},
+		{
+			"id": "c88d0b4fefa99b1f",
+			"fromNode": "410d919fe5e76689",
+			"fromSide": "right",
+			"toNode": "de017ad11ae12154",
+			"toSide": "left",
+			"color": "4"
+		},
+		{
+			"id": "e0d0207a3a25da18",
+			"fromNode": "410d919fe5e76689",
+			"fromSide": "right",
+			"toNode": "42d49bf2656c8635",
+			"toSide": "left",
+			"color": "3"
+		},
+		{
+			"id": "48cff71bac4ab148",
+			"fromNode": "410d919fe5e76689",
+			"fromSide": "right",
+			"toNode": "df868a8cbf642c68",
+			"toSide": "left",
+			"color": "3"
+		},
+		{
+			"id": "434a27dbd700d5cf",
+			"fromNode": "410d919fe5e76689",
+			"fromSide": "right",
+			"toNode": "e0645ffe03eff8b8",
+			"toSide": "left",
+			"color": "3"
+		},
+		{
+			"id": "d0b2787f541b9053",
+			"fromNode": "410d919fe5e76689",
+			"fromSide": "right",
+			"toNode": "a0365efdcf6e2a31",
+			"toSide": "left",
+			"color": "3"
+		},
+		{
+			"id": "86f9037bfb2d66b6",
+			"fromNode": "e1af55e7db173eb1",
+			"fromSide": "right",
+			"toNode": "7340e7ed78ac6073",
+			"toSide": "left",
+			"color": "4"
+		},
+		{
+			"id": "42810abc877b2716",
+			"fromNode": "e1af55e7db173eb1",
+			"fromSide": "right",
+			"toNode": "8f97c50fe373eb51",
+			"toSide": "left",
+			"color": "4"
+		},
+		{
+			"id": "8289cec20bbd9fd2",
+			"fromNode": "e1af55e7db173eb1",
+			"fromSide": "right",
+			"toNode": "4d296f3c5dedec41",
+			"toSide": "left",
+			"color": "3"
+		},
+		{
+			"id": "96f14352a1662e3c",
+			"fromNode": "854bd6f61d053166",
+			"fromSide": "right",
+			"toNode": "5eb319520738a3e4",
+			"toSide": "left",
+			"color": "4"
+		},
+		{
+			"id": "2b2cf840bb1a82f4",
+			"fromNode": "854bd6f61d053166",
+			"fromSide": "right",
+			"toNode": "d1eedb36621aa8f1",
+			"toSide": "left",
+			"color": "4"
+		},
+		{
+			"id": "2779ebf86aedb6b5",
+			"fromNode": "854bd6f61d053166",
+			"fromSide": "right",
+			"toNode": "d7c9b91c3181d458",
+			"toSide": "left",
+			"color": "3"
+		},
+		{
+			"id": "54ba0970c1f8809f",
+			"fromNode": "854bd6f61d053166",
+			"fromSide": "right",
+			"toNode": "55dae93dba13a268",
+			"toSide": "left",
+			"color": "3"
+		},
+		{
+			"id": "473065627466e6c8",
+			"fromNode": "8704dfca729a1884",
+			"fromSide": "right",
+			"toNode": "898322122a787ac4",
+			"toSide": "left",
+			"color": "4"
+		},
+		{
+			"id": "5a06360c1e2708bf",
+			"fromNode": "8704dfca729a1884",
+			"fromSide": "right",
+			"toNode": "957941e211603d5a",
+			"toSide": "left",
+			"color": "4"
+		},
+		{
+			"id": "656c566fc5cf9a99",
+			"fromNode": "8704dfca729a1884",
+			"fromSide": "right",
+			"toNode": "3c69789135172ffe",
+			"toSide": "left",
+			"color": "3"
+		},
+		{
+			"id": "5371d328d7b5d427",
+			"fromNode": "8704dfca729a1884",
+			"fromSide": "right",
+			"toNode": "5aaa68e8e3bcf0d3",
+			"toSide": "left",
+			"color": "6"
+		},
+		{
+			"id": "1280cebec23f7921",
+			"fromNode": "2a98510b23a65bc6",
+			"fromSide": "right",
+			"toNode": "fed8992bb3cae55c",
+			"toSide": "left",
+			"color": "3"
+		},
+		{
+			"id": "0c46fe9284c9fe55",
+			"fromNode": "2a98510b23a65bc6",
+			"fromSide": "right",
+			"toNode": "1250e53f3f0d2087",
+			"toSide": "left",
+			"color": "3"
+		},
+		{
+			"id": "d29f4de45e4e20cd",
+			"fromNode": "2a98510b23a65bc6",
+			"fromSide": "right",
+			"toNode": "2fdb1bc271d24b34",
+			"toSide": "left",
+			"color": "3"
+		},
+		{
+			"id": "c0afaddba2c925c7",
+			"fromNode": "2a98510b23a65bc6",
+			"fromSide": "right",
+			"toNode": "51b14210307e2b03",
+			"toSide": "left",
+			"color": "3"
+		},
+		{
+			"id": "e10361212cb9bb63",
+			"fromNode": "2a98510b23a65bc6",
+			"fromSide": "right",
+			"toNode": "f6eb55026a08b628",
+			"toSide": "left",
+			"color": "1"
+		},
+		{
+			"id": "2a6828759187b86e",
+			"fromNode": "a395773fc0d75116",
+			"fromSide": "right",
+			"toNode": "3a131c623cdca95a",
+			"toSide": "left",
+			"color": "3"
+		},
+		{
+			"id": "40dcd63611561fee",
+			"fromNode": "a395773fc0d75116",
+			"fromSide": "right",
+			"toNode": "d21e076340870e95",
+			"toSide": "left",
+			"color": "3"
+		},
+		{
+			"id": "7d61dfc0396cf52f",
+			"fromNode": "a395773fc0d75116",
+			"fromSide": "right",
+			"toNode": "0da7f683cf808dfe",
+			"toSide": "left",
+			"color": "3"
+		},
+		{
+			"id": "c687ce677f9d28bb",
+			"fromNode": "a395773fc0d75116",
+			"fromSide": "right",
+			"toNode": "3978209ec25dc198",
+			"toSide": "left",
+			"color": "3"
+		},
+		{
+			"id": "aeff3135b2c6a764",
+			"fromNode": "a395773fc0d75116",
+			"fromSide": "right",
+			"toNode": "057d38034810e636",
+			"toSide": "left",
+			"color": "1"
+		},
+		{
+			"id": "45d061ff922dd2e2",
+			"fromNode": "742a22e1075ad6ee",
+			"fromSide": "right",
+			"toNode": "241e45ee3d4c5bb9",
+			"toSide": "left",
+			"color": "6"
+		},
+		{
+			"id": "40813ace56e535f6",
+			"fromNode": "742a22e1075ad6ee",
+			"fromSide": "right",
+			"toNode": "4ffa618fe157be3a",
+			"toSide": "left",
+			"color": "6"
+		},
+		{
+			"id": "efbec802dacbcfa3",
+			"fromNode": "742a22e1075ad6ee",
+			"fromSide": "right",
+			"toNode": "fef5018e079f922a",
+			"toSide": "left",
+			"color": "6"
+		},
+		{
+			"id": "255f9a0744d14bc3",
+			"fromNode": "742a22e1075ad6ee",
+			"fromSide": "right",
+			"toNode": "a24a382635044314",
+			"toSide": "left",
+			"color": "6"
+		},
+		{
+			"id": "859cf1c8a92bfcc3",
+			"fromNode": "742a22e1075ad6ee",
+			"fromSide": "right",
+			"toNode": "66f7b20ad5656e51",
+			"toSide": "left",
+			"color": "6"
+		},
+		{
+			"id": "34ae7c4bf3e33e1a",
+			"fromNode": "742a22e1075ad6ee",
+			"fromSide": "right",
+			"toNode": "2e213df2ca8570e0",
+			"toSide": "left",
+			"color": "6"
+		},
+		{
+			"id": "836d75ca40637db1",
+			"fromNode": "609a659fd8f440bc",
+			"fromSide": "right",
+			"toNode": "64c53c027b9ce474",
+			"toSide": "left",
+			"color": "3"
+		},
+		{
+			"id": "f2b13612f33c1279",
+			"fromNode": "609a659fd8f440bc",
+			"fromSide": "right",
+			"toNode": "d323c8e3bb091914",
+			"toSide": "left",
+			"color": "1"
+		},
+		{
+			"id": "1b6c1de86531f8af",
+			"fromNode": "609a659fd8f440bc",
+			"fromSide": "right",
+			"toNode": "da398167b28049f6",
+			"toSide": "left",
+			"color": "1"
+		},
+		{
+			"id": "6b5088d34e69453e",
+			"fromNode": "609a659fd8f440bc",
+			"fromSide": "right",
+			"toNode": "509da9a09b590a09",
+			"toSide": "left",
+			"color": "1"
+		},
+		{
+			"id": "ff71e2c3404dcb6c",
+			"fromNode": "63a9f0ea7bb98050",
+			"fromSide": "right",
+			"toNode": "9af59a54bdba85a6",
+			"toSide": "left",
+			"color": "5"
+		},
+		{
+			"id": "53e7f22ca602c8b1",
+			"fromNode": "63a9f0ea7bb98050",
+			"fromSide": "right",
+			"toNode": "cecef63fc7866e2d",
+			"toSide": "left",
+			"color": "3"
+		},
+		{
+			"id": "facd96ceaea43365",
+			"fromNode": "63a9f0ea7bb98050",
+			"fromSide": "right",
+			"toNode": "9fbcee0df16d1fd5",
+			"toSide": "left",
+			"color": "4"
+		},
+		{
+			"id": "d7efd043782e993c",
+			"fromNode": "63a9f0ea7bb98050",
+			"fromSide": "right",
+			"toNode": "410d919fe5e76689",
+			"toSide": "left",
+			"color": "3"
+		},
+		{
+			"id": "87704820e9492b10",
+			"fromNode": "63a9f0ea7bb98050",
+			"fromSide": "right",
+			"toNode": "e1af55e7db173eb1",
+			"toSide": "left",
+			"color": "4"
+		},
+		{
+			"id": "3b73d86d50332a2c",
+			"fromNode": "63a9f0ea7bb98050",
+			"fromSide": "right",
+			"toNode": "854bd6f61d053166",
+			"toSide": "left",
+			"color": "4"
+		},
+		{
+			"id": "8360cd5c86439df6",
+			"fromNode": "63a9f0ea7bb98050",
+			"fromSide": "right",
+			"toNode": "8704dfca729a1884",
+			"toSide": "left",
+			"color": "4"
+		},
+		{
+			"id": "32a39d05965271d8",
+			"fromNode": "63a9f0ea7bb98050",
+			"fromSide": "right",
+			"toNode": "2a98510b23a65bc6",
+			"toSide": "left",
+			"color": "3"
+		},
+		{
+			"id": "77975e2f1a810c26",
+			"fromNode": "63a9f0ea7bb98050",
+			"fromSide": "right",
+			"toNode": "a395773fc0d75116",
+			"toSide": "left",
+			"color": "3"
+		},
+		{
+			"id": "c85e1071738577eb",
+			"fromNode": "63a9f0ea7bb98050",
+			"fromSide": "right",
+			"toNode": "742a22e1075ad6ee",
+			"toSide": "left",
+			"color": "6"
+		},
+		{
+			"id": "b3c8af1ec2367303",
+			"fromNode": "63a9f0ea7bb98050",
+			"fromSide": "right",
+			"toNode": "609a659fd8f440bc",
+			"toSide": "left",
+			"color": "1"
+		}
+	]
+}
